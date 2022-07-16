@@ -2,4 +2,4 @@
 .rush/dev-deps
 
 # Output directory
-out
+#out
